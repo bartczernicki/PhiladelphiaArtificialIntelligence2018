@@ -1,2 +1,4 @@
 # PhiladelphiaArtificialIntelligence2018
-Philadelphia Artificial Intelligence 2018 Conference Presentation
+Presentation - Philadelphia Artificial Intelligence 2018 Conference
+https://phlai.comcast.com/
+
